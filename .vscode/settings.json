@@ -1,0 +1,8 @@
+{
+    "iis.configDir": "",
+    "esbonio.sphinx.confDir": "${workspaceFolder}\\docs\\source",
+    "cSpell.words": [
+        "beatmap",
+        "beatmaps"
+    ]
+}
