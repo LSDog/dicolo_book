@@ -1,8 +1,9 @@
 {
-    "iis.configDir": "",
-    "esbonio.sphinx.confDir": "${workspaceFolder}\\docs\\source",
-    "cSpell.words": [
-        "beatmap",
-        "beatmaps"
-    ]
+  "editor.tabSize": 2,
+  "iis.configDir": "",
+  "esbonio.sphinx.confDir": "${workspaceFolder}\\docs\\source",
+  "cSpell.words": [
+  	"beatmap",
+    "beatmaps"
+  ]
 }
