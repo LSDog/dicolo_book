@@ -1,4 +1,4 @@
-# 📕 [The book of dicolo!](http://bool.dicolo.LSDog.fun) << Click to visit
+# 📕 [The book of dicolo!](http://book.dicolo.LSDog.fun) << Click to visit
 
 *Includes some **docs, stories** about dicolo!*
 
