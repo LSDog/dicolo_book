@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dicolo-book\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-03 14:30+0800\n"
+"PO-Revision-Date: 2023-09-04 15:37\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"Language-Team: Chinese Simplified\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+"X-Crowdin-Project: dicolo-book\n"
+"X-Crowdin-Project-ID: 611841\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/docs/locales/zh_CN/LC_MESSAGES/index.po\n"
+"X-Crowdin-File-ID: 67\n"
+
+#: ../../source/index.rst:20
+msgid "Develop"
+msgstr ""
+
+#: ../../source/index.rst:28
+msgid "Story"
+msgstr ""
+
+#: ../../source/index.rst:2 2af8ac7ce604487d9072d0e95131dab4
+msgid "Welcome to dicolo! book❗"
+msgstr ""
+
+#: ../../source/index.rst:4 a7bbb421a3ed452f9880e91aa618c3a0
+msgid "**dicolo!** (/dɪˈkolo/) is a new born rhythm game."
+msgstr ""
+
+#: ../../source/index.rst:8 8ce7f609cb1f4c43b3eb78c57557a144
+msgid "The document is not complete, you can ask LSDog for more information."
+msgstr ""
+
+#: ../../source/index.rst:10 8f792b8c62df4c409a25f3e9e9baa36c
+msgid "This is a book contains everything about dicolo!, anything you wanna know is right here!"
+msgstr ""
+
+#: ../../source/index.rst:13 26434e3b1861458f82ce02165234c5c6
+msgid "Open side bar ↖ to check navigation"
+msgstr ""
+
+#: ../../source/index.rst:14 d483dd080623493989d8caa629a7fde6
+msgid "Use search to find things in this book"
+msgstr ""
+
+#: ../../source/index.rst:18 3265c06973e344a094bca7b82a9059b8
+msgid "🎉 Please enjoy!"
+msgstr ""
+
