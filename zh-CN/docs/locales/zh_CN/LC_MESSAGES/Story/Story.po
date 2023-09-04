@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dicolo-book\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-03 14:30+0800\n"
+"PO-Revision-Date: 2023-09-04 15:37\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"Language-Team: Chinese Simplified\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+"X-Crowdin-Project: dicolo-book\n"
+"X-Crowdin-Project-ID: 611841\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/docs/locales/zh_CN/LC_MESSAGES/Story/Story.po\n"
+"X-Crowdin-File-ID: 63\n"
+
+#: ../../source/Story/Story.rst:2 b138f327c8cc40bb9d8b19f0c247f0c0
+msgid "Story"
+msgstr ""
+
+#: ../../source/Story/Story.rst:4 35b2519b360c45e9aa07b0868dc0436a
+msgid "You can share some stories about dicolo! here!"
+msgstr ""
+
+#: ../../source/Story/Story.rst:8 4aeed23d427f4a86bf0ef9dfa13dd322
+msgid "You can also post image, music or video here, but **remember everything you post here are under CC-by 4.0 license.**"
+msgstr ""
+
+#: ../../source/Story/Story.rst:12 d7033faf24944403b658e9227f44916a
+msgid "**You don't need to write your story in English!** You can use your mother language to finish the story, then put the English version after the original one if you can."
+msgstr ""
+
+#: ../../source/Story/Story.rst:18 4f351861cece4e69ba39845254b2182d
+msgid "stories"
+msgstr ""
+
