@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dicolo-book\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-03 14:30+0800\n"
+"PO-Revision-Date: 2023-09-04 15:36\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"Language-Team: Chinese Simplified\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+"X-Crowdin-Project: dicolo-book\n"
+"X-Crowdin-Project-ID: 611841\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/docs/locales/zh_CN/LC_MESSAGES/Develop/Get The Project.po\n"
+"X-Crowdin-File-ID: 51\n"
+
+#: ../../source/Develop/Get 216862cfa2484d2787cac7f6cf1b4cd9 Project.rst:2 The
+msgid "Get The Project!"
+msgstr ""
+
+#: ../../source/Develop/Get 402a111bb56e4c3e9d2334d79cdbfe0a Project.rst:4 The
+msgid "🖊 In this page, I will show you how to clone (download) the dicolo! project (source code and asset) and open it!"
+msgstr ""
+
+#: ../../source/Develop/Get 0d39a933255d4007b13e477efd17be10 Project.rst:8 The
+msgid "I assume that you **have some experience in working with git/github**. if you feel confused at some place, google first, then ask your programmer friend for help!"
+msgstr ""
+
+#: ../../source/Develop/Get 2e13001ed5904bbd898a1fa633abd4d7 Project.rst:12 The
+msgid "Now follow these step by step, if you are a normal life, it won't take more than 10 minutes"
+msgstr ""
+
+#: ../../source/Develop/Get 4b609ab2b55d4f64b981f517a7ec56f9 Project.rst:17 The
+msgid "Get Git"
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:18 The b26c7f1500744f1f9bf474be52bea2d2
+msgid "[**3 minutes**] We love `git <https://git-scm.com>`_!"
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:20 The a5ac36fc65ed40ae89c040d7d5e89eb7
+msgid "To get dicolo! game project files, you need to download and install the git from https://git-scm.com"
+msgstr ""
+
+#: ../../source/Develop/Get 992e1c327def4270a0c73fb21d26f42f Project.rst:23 The
+msgid "Check if you have git before you download it!"
+msgstr ""
+
+#: ../../source/Develop/Get 47e8bae0f4cc4dc4be900e678f3d04e5 Project.rst:27 The
+msgid "Get Godot"
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:28 The f85499063b1d480b922e347eb44031b7
+msgid "[**2 minutes**] We love `Godot <https://godotengine.org/>`_!"
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:30 The e64459be1b71436e880ec74a66c46baf
+msgid "To edit and build the game dicolo!, You need the **godot game engine**."
+msgstr ""
+
+#: ../../source/Develop/Get 9b3d9879820842d3b1c2e3637944e1d5 Project.rst:32 The
+msgid "To get godot, the simplest way is to download it from **itch.io**, **Steam store** or **EPIC game store**."
+msgstr ""
+
+#: ../../source/Develop/Get 0a78ddc5f8ea460ca121b632d7d8206d Project.rst:34 The
+msgid "⭐ But for the **flexibility**, It's **better** to download it at https://godotengine.org/download."
+msgstr ""
+
+#: ../../source/Develop/Get 98e5db52a1d84e68934201366a9d5b2f Project.rst:36 The
+msgid "Please download the **newest standard** version (**not .NET/C# version**)"
+msgstr ""
+
+#: ../../source/Develop/Get 3c47cf1200f74b5fa14d4564d0559ab9 Project.rst:40 The
+msgid "Clone the repository"
+msgstr ""
+
+#: ../../source/Develop/Get 43f94219e7234754951e7cd9bd0a9143 Project.rst:41 The
+msgid "[**2 minute**] Go get it!!"
+msgstr ""
+
+#: ../../source/Develop/Get 7f0be08fddf348209c70354919eb2226 Project.rst:43 The
+msgid "Find a great place that can put the dicolo! project folder and open the git-bash."
+msgstr ""
+
+#: ../../source/Develop/Get 0dc4dd5206784c758c6d07e26d0e09bf Project.rst:48 The
+msgid "To open Git Bash, you can:"
+msgstr ""
+
+#: ../../source/Develop/Get 0674d1edbe6f4cd5bd46baf213af9290 Project.rst:46 The
+msgid "**Windows**: Double-click the shortcut or search it through the Windows search feature. You can also right-click anywhere in the folder you want to open and choose the Git Bash option."
+msgstr ""
+
+#: ../../source/Develop/Get 2c03323dd19748b8975da2b0e46bdcd9 Project.rst:47 The
+msgid "**Mac**: Open the terminal application on Mac and type the command git bash."
+msgstr ""
+
+#: ../../source/Develop/Get 20b61542fb4c4988a768b538acc1c4c6 Project.rst:48 The
+msgid "**Linux**: Open a terminal on Linux and type the command git bash."
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:50 The d62d68214aed4144a37dc192e5e3ea0b
+msgid "Clone the repository https://github.com/LSDogX/dicolo"
+msgstr ""
+
+#: ../../source/Develop/Get 3e3b61b330604ac088b0c23a514ba1b7 Project.rst:54 The
+msgid "To clone a repository from github, you can follow this tutorial:"
+msgstr ""
+
+#: ../../source/Develop/Get 667f9bd3786844409ce964c229e96966 Project.rst:53 The
+msgid "https://docs.github.com/zh/repositories/creating-and-managing-repositories/cloning-a-repository"
+msgstr ""
+
+#: ../../source/Develop/Get 75683a5c874c49faa0eec43d5e8b356e Project.rst:57 The
+msgid "Open the project"
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:58 The f0c27efcf1be4e48a5d43f66a1b867df
+msgid "[**1 minute**] SSSTTTAAARRRTTT------"
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:60 The a646607a13be4f5a95618a30320d0ead
+msgid "Open godot."
+msgstr ""
+
+#: ../../source/Develop/Get 5e5fb0785b814e0baa36e07e7080e285 Project.rst:61 The
+msgid "Click ``Import project`` and select the project folder."
+msgstr ""
+
+#: ../../source/Develop/Get 23382825f55245859db8a240f4f8a1b0 Project.rst:62 The
+msgid "**OPEN IT!!**"
+msgstr ""
+
+#: ../../source/Develop/Get Project.rst:65 The cef64da202dd4ecf81ff015a3a7111ba
+msgid "Give your self a huge, you worth it."
+msgstr ""
+
+#: ../../source/Develop/Get 8dcf59c60bb94a9ab83e179f822052ca Project.rst:69 The
+msgid "But it failed!!"
+msgstr ""
+
+#: ../../source/Develop/Get 10fda48844384f32aa8ffa03149877ee Project.rst:70 The
+msgid "[**Countless minutes**] Oh no."
+msgstr ""
+
+#: ../../source/Develop/Get 0ea7fa210f0048bd9219a0b2504d4749 Project.rst:72 The
+msgid "Sometimes you just stuck at some place or you just received a tons of errors, well, this tells you that you are not a normal person ------ You Are Special!"
+msgstr ""
+
+#: ../../source/Develop/Get 52a2632697814566bc155081fc4cfe1b Project.rst:75 The
+msgid "In this case, you should **read this page again** and make sure that you did every thing that I just said, then try to change some ways of doing it (like put files in another place, or restart the computer, etc)."
+msgstr ""
+
+#: ../../source/Develop/Get 075536da21e649a4a9eb05d3525d27c4 Project.rst:79 The
+msgid "If you just can not fix it ------ ask for help! At a lot of places!"
+msgstr ""
+
