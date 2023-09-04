@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dicolo-book\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-03 14:30+0800\n"
+"PO-Revision-Date: 2023-09-04 15:36\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"Language-Team: Chinese Simplified\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+"X-Crowdin-Project: dicolo-book\n"
+"X-Crowdin-Project-ID: 611841\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/docs/locales/zh_CN/LC_MESSAGES/Story/Maybe the world is not random.po\n"
+"X-Crowdin-File-ID: 59\n"
+
+#: ../../source/Story/Maybe 228ad7f98270498abe31bbcd22cc8f80 is not
+#: random.rst:2 the world
+msgid "Maybe the world is not random"
+msgstr ""
+
+#: ../../source/Story/Maybe ebe579910cf14630948c5d32c135dacb is not
+#: random.rst:5 the world
+msgid "实验构想"
+msgstr ""
+
+#: ../../source/Story/Maybe 47056d11f4a14964bd7ab7c4ec5604b1 is not
+#: random.rst:7 the world
+msgid "这是一个点击以后会随机生成一个0~9中任意一个数字的按钮"
+msgstr ""
+
+#: ../../source/Story/Maybe aa4ad07d246a478c9f966aa85640b846 is not
+#: random.rst:9 the world
+msgid "随机！随机可多有趣啊，如果你随机到9，我就会给你一神秘机大奖！来试试："
+msgstr ""
+
+#: ../../source/Story/Maybe 3ab70011681e4eafaa54c10c75480c72
+#: 7d14b9efd84940a381c0b1c0e1d39c94 8dc638049b2e45ceaaa56d5dbf056c6f
+#: bca00ef22d334918831aa23c3672da71 is not random.rst:11 random.rst:15
+#: random.rst:16 random.rst:36 the world
+msgid "点击：...... 8"
+msgstr ""
+
+#: ../../source/Story/Maybe a8f7790e57ee4390bb56950e7f1d9957 is not
+#: random.rst:13 the world
+msgid "看来你的运气不错啊，也许你真的能很快拿到奖！"
+msgstr ""
+
+#: ../../source/Story/Maybe 5726c971227248eb875be6f525f66b77 is not
+#: random.rst:17 the world
+msgid "..."
+msgstr ""
+
+#: ../../source/Story/Maybe 03d8549256574cdda8d1c7aaec37710e is not
+#: random.rst:19 the world
+msgid "怎么？你不服气？你说这随机是假的？"
+msgstr ""
+
+#: ../../source/Story/Maybe 5756849099104ccebdce833583787c41 is not
+#: random.rst:21 the world
+msgid "唉，不不不，你还是不理解什么叫随机啊。"
+msgstr ""
+
+#: ../../source/Story/Maybe 8fb1464d3ce644dd92a88376d1f76c53 is not
+#: random.rst:23 the world
+msgid "冒着源代码泄露的风险，我偷偷给你看一下这个随机数是怎么生成的："
+msgstr ""
+
+#: ../../source/Story/Maybe 5eb7f4952f404165a4dc78becdad0d02 is not
+#: random.rst:25 the world
+msgid "``random()``"
+msgstr ""
+
+#: ../../source/Story/Maybe c02f1fff73b44009808db7413e09a824 is not
+#: random.rst:27 the world
+msgid "看！random()！这就是随机数生成器！"
+msgstr ""
+
+#: ../../source/Story/Maybe 3ecfe002bcaa492b912b46725706b72c is not
+#: random.rst:29 the world
+msgid "现在你再试试："
+msgstr ""
+
+#: ../../source/Story/Maybe 54ddaf8f072d420bb06d7a4cc2a4898b
+#: b4125f5086a54ca483c261ac746ef299 bcd95117a5f640d199c5fe344a8a3398 is not
+#: random.rst:31 random.rst:34 random.rst:35 the world
+msgid "点击：...... 1"
+msgstr ""
+
+#: ../../source/Story/Maybe 5853575eb3d1408bba9d7e7a57b2868f is not
+#: random.rst:32 the world
+msgid "点击：...... 4"
+msgstr ""
+
+#: ../../source/Story/Maybe 0efc802aaabc42fab29a115a1b10458c is not
+#: random.rst:33 the world
+msgid "点击：...... 7"
+msgstr ""
+
+#: ../../source/Story/Maybe 47083c3941224f89b2c3d884cb24c886 is not
+#: random.rst:38 the world
+msgid "很酷！你现在是不是满意了？多么随机的数字哟，147118，147118......"
+msgstr ""
+
+#: ../../source/Story/Maybe e16aa59a609b4ab386688cf345de35a9 is not
+#: random.rst:40 the world
+msgid "可是你猜怎么着？其实这是我提前写好的！"
+msgstr ""
+
+#: ../../source/Story/Maybe 53319f2a67c243b6a52c181c88951b7b is not
+#: random.rst:42 the world
+msgid "如果你再按一次他会是2，然后是2，然后还是2，你按出来什么可都被我定好喽！"
+msgstr ""
+
+#: ../../source/Story/Maybe a764f91c665d45739c6e3a8be0a2cd9e is not
+#: random.rst:44 the world
+msgid "...2...2...2..."
+msgstr ""
+
+#: ../../source/Story/Maybe 5ec5b630835949cfb616cd7873aecce5 is not
+#: random.rst:46 the world
+msgid "看吧，不要怀疑我，我虽然有能力改变随机的结果，而一开始只不过是你太幸运了"
+msgstr ""
+
+#: ../../source/Story/Maybe c73ba0af7c7f44839be142e165d2f960 is not
+#: random.rst:48 the world
+msgid "(未完待续)"
+msgstr ""
+
